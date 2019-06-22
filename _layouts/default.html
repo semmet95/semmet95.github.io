@@ -53,10 +53,6 @@
 
         <p><h3>{{ site.description | default: site.github.project_tagline }}</h3></p>
         
-        <ul>
-          {% include fa-icons.html %}
-        </ul>
-
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View My GitHub Profile<small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -72,6 +68,11 @@
         </ul>
         {% endif %}
       </header>
+
+      <ul>
+        {% include fa-icons.html %}
+      </ul>
+      
       <section>
 
       {{ content }}
