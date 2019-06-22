@@ -29,14 +29,6 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        LOL
-        <div class="wrapper-footer">
-          <div class="container">
-            <footer class="footer">
-              {% include svg-icons.html %}
-            </footer>
-          </div>
-        </div>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -53,6 +45,8 @@
 
       </section>
       <footer>
+        {% include svg-icons.html %}
+        <br><br><br><br>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
