@@ -8,7 +8,4 @@ After that I got into Android app development, worked on multiple projects that 
 
 Currently I'm exploring the world of Neural Networks and its applications. I recently finished a [Nanodegree course](https://graduation.udacity.com/confirm/AHN9KA6K) on Deep Learing that covered everything from behind-the-scene mathematics of neural nets to deploying a model on AWS Sagemaker, and of course CNNs, GANs, LSTMs and all that good stuff.
 
-Feel free to contact me, I'm a very nice person unless you ask for my credit card details 😉
-
-
-
+Feel free to contact me, I'm a very nice person unless you ask for my credit card details 🤪
