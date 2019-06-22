@@ -2,3 +2,19 @@ theme: jekyll-theme-minimal
 title: Amit Singh
 description: Deep Learning Engineer
 logo: ./images/me.jpg
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: singhamitch@gmail.com
+  facebook: singhamitch
+  flickr:
+  github: singh-95
+  instagram:
+  linkedin: in/singhamitch
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: users/7545838/amit
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
